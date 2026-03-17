@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 """Script to get TODO progress for an employee from API."""
 
 import requests
